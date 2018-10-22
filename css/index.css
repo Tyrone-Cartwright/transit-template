@@ -55,7 +55,7 @@ body {
   cursor: pointer;
 }
 .hamburger__line {
-  width: 26px;
+  width: 25px;
   height: 2px;
   background-color: #bdbdbd;
   display: block;
